@@ -1,0 +1,15 @@
+#profile-img {
+    height: 200px;
+    width: 200px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    text-align: center;
+    /*border: 1px solid black;*/
+}
